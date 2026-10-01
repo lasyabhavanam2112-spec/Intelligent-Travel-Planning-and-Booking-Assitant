@@ -1,0 +1,6 @@
+{
+  "name": "Intelligent Travel Assistant & Booking Agent",
+  "description": "An interactive 10-slide presentation deck with AI architecture diagrams, visual problem breakdowns, real Goa trip plans, hotel booking engine, and 15-minute defense guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
